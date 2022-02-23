@@ -4,9 +4,9 @@
 
 ## Features
 
---> Users can create, update and delete their posts whenever they want. 
---> While creating an account, users have to register through their email. They can set username and password and after successfully creating an account, they can login via email and password.  
---> After creating an account, users can set a profile picture. They can also update their profile whenever they want.
+* Users can create, update and delete their posts whenever they want. 
+* While creating an account, users have to register through their email. They can set username and password and after successfully creating an account, they can login via email and password.  
+* After creating an account, users can set a profile picture. They can also update their profile whenever they want.
 
 Visit: https://bubble-blog.herokuapp.com/
 
