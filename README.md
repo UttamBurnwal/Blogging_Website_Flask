@@ -1,4 +1,4 @@
-# Blogging Website usinf Flask Framework
+# Blogging Website using Flask Framework
 
 
 --> A Community Blogging App where users can create their own accounts and posts blogs for other users. The app is created with the help of  ```Flask``` and is currently deployed on ```Heroku``` platform.
