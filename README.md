@@ -11,9 +11,6 @@
 
 Visit: https://bubble-blog.herokuapp.com/
 
-## A glimpse of the web app:
-
- ![Image]()
  
 
 ## Directory Tree
